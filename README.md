@@ -1,7 +1,7 @@
 # hello-world
 Repository Basics
 
-__Daniel Roberts__ 
+__D Roberts__ 
 
 ###Developer Languages###
 -     PHP
