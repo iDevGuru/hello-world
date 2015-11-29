@@ -14,3 +14,4 @@ __D Roberts__
 -     SQL
 -     Python
 -     Xcode
+-     Perl
