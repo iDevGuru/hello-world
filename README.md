@@ -15,3 +15,4 @@ __D Roberts__
 -     Python
 -     Xcode
 -     Perl
+-     jQuery
